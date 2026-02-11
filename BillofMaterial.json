@@ -1,0 +1,4964 @@
+[
+  {
+    "Type": "AL capacitor",
+    "Material Description": "SMT/AL capacitor/220uF/16V/6.3X7.7/±20%",
+    "Value": "220uF_16V",
+    "PCB Decal": "C_DL6P3_7P7"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/10uF/35V/C1206/X5R/±10%",
+    "Value": "10uF_35V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/1nF/2kV/C1206/X5R/±10%",
+    "Value": "1nF_2kV",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/47uF/6.3V/C0805/X5R/±10%",
+    "Value": "47uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/22uF/6.3V/C0805/X5R/±10%",
+    "Value": "22uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/10uF/16V/C0805/X5R/±10%",
+    "Value": "10uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/22uF/6.3V/C0603/X5R/±10%",
+    "Value": "22uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/10uF/6.3V/C0603/X5R/±10%",
+    "Value": "10uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/4.7uF/6.3V/C0603/X7R/±10%",
+    "Value": "4.7uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/4.7uF/6.3V/C0402/X7R/±10%",
+    "Value": "4.7uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/C0402/X7R/±10%",
+    "Value": "1uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/1uF/6.3V/C0402/X7R/±10%",
+    "Value": "1uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/25V/C0402/X7R/±10%",
+    "Value": "0.47uF_25V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/C0402/X7R/±10%",
+    "Value": "0.22uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/50V/C0402/X7R/±10%",
+    "Value": "0.1uF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/100nF/16V/C0402/X7R/±10%",
+    "Value": "0.1uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/6.3V/C0402/X5R/±10%",
+    "Value": "0.1uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/C0402/X7R/±10%",
+    "Value": "22nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/C0402/X7R/±10%",
+    "Value": "1nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/560pF/50V/C0402/COG/±5%",
+    "Value": "560pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/220pF/50V/C0402/COG/±5%",
+    "Value": "220pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/33pF/50V/C0402/COG/±5%",
+    "Value": "33pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/1.5pF/50V/C0402/COG/±5%",
+    "Value": "1.5pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/27pF/50V/C0402/COG/±5%",
+    "Value": "27pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/18pF/50V/C0402/COG/±5%",
+    "Value": "18pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/10pF/50V/C0402/COG/±5%",
+    "Value": "10pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/2.2uF/6.3V/C0201/X5R/±10%",
+    "Value": "2.2uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/1uF/6.3V/C0201/X5R/±10%",
+    "Value": "1uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/C0201/X5R/±10%",
+    "Value": "0.22uF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/6.3V/C0201/X5R/±10%",
+    "Value": "0.1uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/1nF/6.3V/C0201/X5R/±10%",
+    "Value": "1nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMT\ncapacitor",
+    "Material Description": "SMT/MLCC/47pF/50V/C0201/COG/±5%",
+    "Value": "47pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMT\nResistor-Row",
+    "Material Description": "SMT/Resistor-Row/0R*4/RN0402/±5%/1/16W",
+    "Value": "4x0R",
+    "PCB Decal": "RN0402"
+  },
+  {
+    "Type": "SMT\nResistor-Row",
+    "Material Description": "SMT/Resistor-Row/2.2R*4/RN0402/±5%/1/16W",
+    "Value": "4x2.2R",
+    "PCB Decal": "RN0402"
+  },
+  {
+    "Type": "SMT\nResistor-Row",
+    "Material Description": "SMT/Resistor-Row/5.1R*4/RN0402/±5%/1/16W",
+    "Value": "4x5.1R",
+    "PCB Decal": "RN0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/13K/R0402/±1%/1/16W",
+    "Value": "13K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/100K/R0402/±1%/1/16W",
+    "Value": "100K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/30K/R0402/±1%/1/16W",
+    "Value": "30K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/240R/R0402/±1%/1/16W",
+    "Value": "240R_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/7.5K/R0402/±1%/1/16W",
+    "Value": "7.5K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/16K/R0402/±1%/1/16W",
+    "Value": "16K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/24.9K/R0402/±1%/1/16W",
+    "Value": "24.9K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/10K/R0402/±1%/1/16W",
+    "Value": "10K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/5.6K/R0402/±1%/1/16W",
+    "Value": "5.6K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/19.1K/R0402/±1%/1/16W",
+    "Value": "19.1K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/20K/R0402/±1%/1/16W",
+    "Value": "20K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/22.1K/R0402/±1%/1/16W",
+    "Value": "22.1K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/20K/R0402/±1%/1/16W",
+    "Value": "20K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/15.4K/R0402/±1%/1/16W",
+    "Value": "15.4K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/47K/R0402/±1%/1/16W",
+    "Value": "47K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/44.2K/R0402/±1%/1/16W",
+    "Value": "44.2K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/43K/R0402/±1%/1/16W",
+    "Value": "43K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/11.8K/R0402/±1%/1/16W",
+    "Value": "11.8K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/120R/R0402/±1%/1/16W",
+    "Value": "120R_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/4.7K/R0402/±1%/1/16W",
+    "Value": "4.7K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/33K/R0402/±1%/1/16W",
+    "Value": "33K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/2.49K/R0402/±1%/1/16W",
+    "Value": "2.49K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/82K/R0402/±1%/1/16W",
+    "Value": "82K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/205K/R0402/±1%/1/16W",
+    "Value": "205K_1%",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/470R/R0603/±5%/1/10W",
+    "Value": "470R",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/0.02R/R0805/±1%/1/8W",
+    "Value": "0.02R",
+    "PCB Decal": "R0805"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/75R/R0805/±5%/1/8W",
+    "Value": "75R",
+    "PCB Decal": "R0805"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/0R/R1206/±1%/1/4W",
+    "Value": "0R",
+    "PCB Decal": "R1206"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/0R/R0805/±5%/1/8W",
+    "Value": "0R",
+    "PCB Decal": "R0805"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/0R/R0603/±5%/1/10W",
+    "Value": "0R",
+    "PCB Decal": "R0603"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/100K/R0402/±5%/1/16W",
+    "Value": "100K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/56K/R0402/±5%/1/16W",
+    "Value": "56K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/10K/R0402/±5%/1/16W",
+    "Value": "10K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/4.7K/R0402/±5%/1/16W",
+    "Value": "4.7K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/100R/R0402/±5%/1/16W",
+    "Value": "100R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/47R/R0402/±5%/1/16W",
+    "Value": "47R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/1K/R0402/±5%/1/16W",
+    "Value": "1K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/470K/R0402/±5%/1/16W",
+    "Value": "470K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/0R/R0402/±5%/1/16W",
+    "Value": "0R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/0R/R0402/±5%/1/16W",
+    "Value": "0R",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/47K/R0402/±5%/1/16W",
+    "Value": "47K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/5.1R/R0402/±5%/1/16W",
+    "Value": "5.1R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/2.2R/R0402/±5%/1/16W",
+    "Value": "2.2R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/22R/R0402/±5%/1/16W",
+    "Value": "22R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/2K/R0402/±5%/1/16W",
+    "Value": "2K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/27K/R0402/±5%/1/16W",
+    "Value": "27K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/499R/R0402/±5%/1/16W",
+    "Value": "499R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/3.3R/R0402/±5%/1/16W",
+    "Value": "3.3R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/499K/R0402/±5%/1/16W",
+    "Value": "499K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/20K/R0402/±5%/1/16W",
+    "Value": "20K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/5.6R/R0402/±5%/1/16W",
+    "Value": "5.6R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/10R/R0402/±5%/1/16W",
+    "Value": "10R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/510R/R0603/±5%/1/10W",
+    "Value": "510R",
+    "PCB Decal": "R0603"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/2.2K/R0402/±5%/1/16W",
+    "Value": "2.2K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/6.8K/R0402/±5%/1/16W",
+    "Value": "6.8K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/3.4K/R0402/±5%/1/16W",
+    "Value": "3.4K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/75R/R0402/±5%/1/16W",
+    "Value": "75R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/180R/R0402/±5%/1/16W",
+    "Value": "180R",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/12K/R0402/±5%/1/16W",
+    "Value": "12K",
+    "PCB Decal": "R0402"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/0R/R0201/±5%/1/16W",
+    "Value": "0R",
+    "PCB Decal": "R0201"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/1.5K/R0201/±1%/1/16W",
+    "Value": "1.5K_1%",
+    "PCB Decal": "R0201"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/120R/R0201/±1%/1/16W",
+    "Value": "120R_1%",
+    "PCB Decal": "R0201"
+  },
+  {
+    "Type": "SMT\nResistor",
+    "Material Description": "SMT/Resistor/240R/R0201/±1%/1/16W",
+    "Value": "240R_1%",
+    "PCB Decal": "R0201"
+  },
+  {
+    "Type": "SMT \nbead",
+    "Material Description": "SMT/bead/220R_100MHz/FB0603/300mA/±25%/GZ1608U221CTF/Sunlord",
+    "Value": "220R_100MHz_300mA",
+    "PCB Decal": "FB0603"
+  },
+  {
+    "Type": "SMT \nbead",
+    "Material Description": "SMT/bead/1000R_100MHz/FB0402/300mA/±25%/GZ1005U102CTF/Sunlord",
+    "Value": "1000ohm_100MHz_300mA",
+    "PCB Decal": "FB0402"
+  },
+  {
+    "Type": "Power inductor",
+    "Material Description": "SMD/Wire Wound Power Inductor/4.7uH/3A/DCR≤30mΩ/L5050/SWPA5040S4R7NT/Sunlord",
+    "Value": "4.7uH_3A_DCR_30mohm",
+    "PCB Decal": "L5050"
+  },
+  {
+    "Type": "Power inductor",
+    "Material Description": "SMD/Wire Wound Power Inductor/1.0uH/4A/DCR≤15mΩ/L5050/MWSA0518S-1R0MT/Sunlord",
+    "Value": "1.0uH_5A_DCR_15mohm",
+    "PCB Decal": "L5050"
+  },
+  {
+    "Type": "Power inductor",
+    "Material Description": "SMD/Wire Wound Power Inductor/1.0uH/4A/DCR≤15mΩ/L5050/SWPA5040S1R0NT/Sunlord",
+    "Value": "1.0uH_2A_DCR_30mohm",
+    "PCB Decal": "L5050"
+  },
+  {
+    "Type": "Power inductor",
+    "Material Description": "SMD/Wire Wound Power Inductor/2.2uH/2A/DCR≤30mΩ/L5050/SWPA5020S2R2NT/Sunlord",
+    "Value": "2.2uH_2A_DCR_30mohm",
+    "PCB Decal": "L5050"
+  },
+  {
+    "Type": "Power inductor",
+    "Material Description": "0.68uH_8A_DCR<=15mohm/MWSA0624S-R68MT/Sunlord",
+    "Value": "0.68uH_6A_DCR_15mohm",
+    "PCB Decal": "L7070_H2P4"
+  },
+  {
+    "Type": "Power inductor",
+    "Material Description": "SMT/Power inductor/2.2uH/±20%/DCR≤80mΩ/1A/L3030/SWPA3012S2R2NT/Sunlord",
+    "Value": "2.2uH_1A",
+    "PCB Decal": "L3030"
+  },
+  {
+    "Type": "Power inductor",
+    "Material Description": "SMD/Wire Wound Power Inductor/10uH/SWPA5045S100MT/Sunlord",
+    "Value": "10uH",
+    "PCB Decal": "L5050"
+  },
+  {
+    "Type": "SMT\nLED",
+    "Material Description": "SMD/LED/Red_LED/LED0603",
+    "Value": "Red_LED",
+    "PCB Decal": "LED0603"
+  },
+  {
+    "Type": "SMT\nLED",
+    "Material Description": "SMD/LED/Green_LED/LED0603",
+    "Value": "Green_LED",
+    "PCB Decal": "LED0603"
+  },
+  {
+    "Type": "SMT\nLED",
+    "Material Description": "LED_RGB_90_3.2X1MM/XR_1204RGB/LED_HQ12_2353RGBC",
+    "Value": "XR_1204RGB",
+    "PCB Decal": "LED_HQ12_2353RGBC"
+  },
+  {
+    "Type": "ESD",
+    "Material Description": "SMD/ESD/AZ5725-01F/1 Channel Bidirectional/ESD0402",
+    "Value": "AZ5725-01F",
+    "PCB Decal": "ESD0402"
+  },
+  {
+    "Type": "ESD",
+    "Material Description": "SMD/ESD/AZ5413-01F/1 Channel Bidirectional/ESD0402",
+    "Value": "AZ5413-01F",
+    "PCB Decal": "ESD0402"
+  },
+  {
+    "Type": "ESD",
+    "Material Description": "SMD/ESD/AZ5325-01F/1 Channel Bidirectional/ESD0402",
+    "Value": "AZ5325-01F",
+    "PCB Decal": "ESD0402"
+  },
+  {
+    "Type": "ESD",
+    "Material Description": "SMD/ESD/AZ1143-04F/4 Channels Bidirectional/DFN2510P10E",
+    "Value": "AZ1143-04F",
+    "PCB Decal": "DFN2510P10E"
+  },
+  {
+    "Type": "ESD",
+    "Material Description": "SMD/TVS Diode/AZC199-04S/4 Channels/SOT23-6",
+    "Value": "AZC199-04S",
+    "PCB Decal": "SOT23-6"
+  },
+  {
+    "Type": "Crystal",
+    "Material Description": "SMD/Crystal Oscillator/24MHz_CL12pF/3225/4pin/5YMA24000121KF40Q2/interquip/XT-SMD4P3225",
+    "Value": "24MHz_CL12pF",
+    "PCB Decal": "XT-SMD4P3225"
+  },
+  {
+    "Type": "Crystal",
+    "Material Description": "SMD/Crystal Oscillator/25MHz_CL12pF/3225/4pin/5YMA25000122KF50E2/interquip/XT-SMD4P3225",
+    "Value": "25MHz_CL12pF",
+    "PCB Decal": "XT-SMD4P3225"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "SMD/MOS FET/P-Channel/WPM3401/SOT-23",
+    "Value": "WPM3401",
+    "PCB Decal": "SOT-23"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "SMD/Transistor/NPN/PMBT3904/SOT-23",
+    "Value": "PMBT3904",
+    "PCB Decal": "SOT-23"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "SMD/MOS FET/N-Channel/WNM6001/SOT-23",
+    "Value": "WNM6001",
+    "PCB Decal": "SOT-23"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "IC/LDO/Will/WL2803E18-5/1.8V 300mA/SOT23-5",
+    "Value": "WL2803E18-5",
+    "PCB Decal": "SOT23-5"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "IC/LDO/SGM/SGM2032-ADJ/ADJ 300mA/SOT23-5",
+    "Value": "SGM2032-ADJ",
+    "PCB Decal": "SOT23_5"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "IC/DC-DC/Silergy/SM8102ABC/2.0A/SOT23-6",
+    "Value": "SM8102ABC",
+    "PCB Decal": "SOT23-6"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "IC/DC-DC/Silergy/SM8103ADC/3.0A/SOT23-6",
+    "Value": "SM8103ADC",
+    "PCB Decal": "SOT23-6"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "IC/DC-DC/Silergy/SY8105IADC/5.0A/SOT23-6",
+    "Value": "SY8105IADC",
+    "PCB Decal": "SOT23-6"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "IC/USB \nCurrent-limiting Switch/Silergy/SY6280AAC/Current Adjustable/SOT23-5",
+    "Value": "SY6280AAC",
+    "PCB Decal": "SOT23-5"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "IC/DC-DC/MPS/MP2236GJ/6.0A/TSOT23-8",
+    "Value": "MP2236GJ",
+    "PCB Decal": "TSOT23-8"
+  },
+  {
+    "Type": "Power IC",
+    "Material Description": "IC/DC-DC/MPS/MP8756GD/4.0A/QFN12_MP8756",
+    "Value": "MP8756GD",
+    "PCB Decal": "QFN12_MP8756"
+  },
+  {
+    "Type": "control IC",
+    "Material Description": "Gigabit PHY/Realtek/RTL8211F-CG/QFN-40/RoHS/QFN40-PT04-5X5mm",
+    "Value": "RTL8211F-CG",
+    "PCB Decal": "QFN40-PT04-5X5mm"
+  },
+  {
+    "Type": "control IC",
+    "Material Description": "IC/CP2102/QFN-28/SILICON LABS",
+    "Value": "CP2102",
+    "PCB Decal": "QFN-28"
+  },
+  {
+    "Type": "control IC",
+    "Material Description": "IC/SY6026L/QFN32_0P5_SY6026L",
+    "Value": "SY6026L",
+    "PCB Decal": "QFN32_0P5_SY6026L"
+  },
+  {
+    "Type": "control IC",
+    "Material Description": "IC/AW9523B/TQFN4X4-24L_4X4MM",
+    "Value": "AW9523B",
+    "PCB Decal": "TQFN4X4-24L_4X4MM"
+  },
+  {
+    "Type": "control IC",
+    "Material Description": "RS2057XC6/SGM3157/SC70_6",
+    "Value": "RS2057XC6/SGM3157",
+    "PCB Decal": "SC70_6"
+  },
+  {
+    "Type": "SOC",
+    "Material Description": "S905X5/BGA431_0P563_14X14_X5",
+    "Value": "S905X5",
+    "PCB Decal": "BGA431_0P563_14X14_X5"
+  },
+  {
+    "Type": "DDR",
+    "Material Description": "4GB LPDDR4 4266MB/s :MT53E1G32D2FW-046 WT:C or H9HCNNNCPMMLXR-NEE/LPDDR4_200",
+    "Value": "MT53E1G32D2FW-046 WT:C",
+    "PCB Decal": "LPDDR4_200"
+  },
+  {
+    "Type": "eMMC",
+    "Material Description": "16GB eMMC:THGAMVG7T13BAIL/KLMAG1JETD-B041/BGA153_0P5_EMMC",
+    "Value": "KLMAG1JETD-B041",
+    "PCB Decal": "BGA153_0P5_EMMC"
+  },
+  {
+    "Type": "WIFI module",
+    "Material Description": "WIFI module/ K265B-PR /FN-LINK/W265P1_Module/AP_WIFI2X2_13X15_L",
+    "Value": "W265P1_Module",
+    "PCB Decal": "AP_WIFI2X2_13X15_L"
+  },
+  {
+    "Type": "lan transformer",
+    "Material Description": "SMT/lan transformer/1CT：1CT/G11T1001/24pin/SOIC24",
+    "Value": "G11T1001",
+    "PCB Decal": "SOIC24"
+  },
+  {
+    "Type": "Button",
+    "Material Description": "DIP/Button/SW-4P-90_H(7.5MM)/KEY/SW_4P_90_H_7P5MM",
+    "Value": "KEY",
+    "PCB Decal": "SW_4P_90_H_7P5MM"
+  },
+  {
+    "Type": "Button",
+    "Material Description": "SMD/Button/6*6*5mm/KEY/SW-TACH-CHIPIND",
+    "Value": "KEY",
+    "PCB Decal": "SW-TACH-CHIPIND"
+  },
+  {
+    "Type": "Swith button",
+    "Material Description": "SK-12D07G5/1P2T, 2mm travel, Frame H=4.7mm, Tail L=3.3mm, Knob type G with L=5mm, PA, Non shorting/SW_SLIDE/SW_12D07G5",
+    "Value": "SW_SLIDE",
+    "PCB Decal": "SW_12D07G5"
+  },
+  {
+    "Type": "SMT connector",
+    "Material Description": "SMT/Double row male chassis/board to board with 2x15(30)pin/spacing 1.27mm/SMT  cow/DC3_1P27_2X15P_SMT_male/DC3_1P27_2X15P",
+    "Value": "DC3_1P27_2X15P_SMT_male",
+    "PCB Decal": "DC3_1P27_2X15P"
+  },
+  {
+    "Type": "SMT connector",
+    "Material Description": "SMD/TF Card Slot/TFWF1-EBF1-1X0X/9pin+6pin/TFWF1-EBF1-1X0X/JACK_TF_CARD",
+    "Value": "TFWF1-EBF1-1X0X",
+    "PCB Decal": "JACK_TF_CARD"
+  },
+  {
+    "Type": "SMT connector",
+    "Material Description": "SMD/USB Type-C Jack/Female Jack/Horizontal Installation/24pin+6pin/USB_TYPE-C/USB_TYPE_C",
+    "Value": "USB_TYPE-C",
+    "PCB Decal": "USB_TYPE_C"
+  },
+  {
+    "Type": "SMT connector",
+    "Material Description": "SMD/Micro USB Jack/Female Jack/Horizontal Installation/5pin+4pin/Micro_USB_Port/USB_MICRO_5P_4DIP",
+    "Value": "Micro_USB_Port",
+    "PCB Decal": "USB_MICRO_5P_4DIP"
+  },
+  {
+    "Type": "SMT connector",
+    "Material Description": "SMT/Wifi Antenna Holder/I-PEX Board End Connector/ø2.75mm/RoSH/JACK_IPEX/RF_J_MS_156",
+    "Value": "JACK_IPEX",
+    "PCB Decal": "RF_J_MS_156"
+  },
+  {
+    "Type": "SMT connector",
+    "Material Description": "SMD/HDMI Jack TYPE-A/Female Jack/Horizontal Installation/19pin+4pin/HDA31-F1F1-1000-A/JACK_HDMI_19P_SEN5",
+    "Value": "HDA31-F1F1-1000-A",
+    "PCB Decal": "JACK_HDMI_19P_SEN5"
+  },
+  {
+    "Type": "SMT connector",
+    "Material Description": "SMD/1*14P FPC Socket/Pitch 0.5mm/14pin+2pin/CON_FPC_0.5MM/CON_FPC_REAR_0P5MM_14P",
+    "Value": "CON_FPC_0.5MM",
+    "PCB Decal": "CON_FPC_REAR_0P5MM_14P"
+  },
+  {
+    "Type": "IRin",
+    "Material Description": "DIP/Infrared Receiver/IRM-3638N3/Vcc=3.3V/3pin/IR_3PIN_SEN5",
+    "Value": "IRM-3638N3",
+    "PCB Decal": "IR_3PIN_SEN5"
+  },
+  {
+    "Type": "DIP connector",
+    "Material Description": "DIP/SPDIF Jack/Optical/7pin/IR_GQ_015_T/OPTICAL1706",
+    "Value": "IR_GQ_015_T",
+    "PCB Decal": "OPTICAL1706"
+  },
+  {
+    "Type": "DIP connector",
+    "Material Description": "DIP/2*18P Socket/Pitch 2.0mm/Male Socket/36pin/Bent 90 degrees/CON_2X18P_2.0/CON_2MM_2X18P",
+    "Value": "CON_2X18P_2.0",
+    "PCB Decal": "CON_2MM_2X18P"
+  },
+  {
+    "Type": "DIP connector",
+    "Material Description": "DIP/RJ45+USB3.0 Jack/USB Type-A/RJ45 With LED(Green+Yellow)/27pin/RJ45_USB3.0_Combine/RJ45_USB3P0_COMBINE",
+    "Value": "RJ45_USB3.0_Combine",
+    "PCB Decal": "RJ45_USB3P0_COMBINE"
+  },
+  {
+    "Type": "DIP connector",
+    "Material Description": "DIP/CON-2/2.54MM/SPK/CON2X1_2P54MM",
+    "Value": "SPK",
+    "PCB Decal": "CON2X1_2P54MM"
+  },
+  {
+    "Type": "DIP connector",
+    "Material Description": "DIP/DC Power Jack/DC-005 2.0mm/3pin/DC_Power_Jack/DC_005",
+    "Value": "DC_Power_Jack",
+    "PCB Decal": "DC_005"
+  },
+  {
+    "Type": "DIP connector",
+    "Material Description": "DIP/1*4P Socket/Pitch 2.0mm/4pin/A2501WV-4P/CON_4P_2P0MM_V1",
+    "Value": "A2501WV-4P",
+    "PCB Decal": "CON_4P_2P0MM_V1"
+  },
+  {
+    "Type": "SMT \nTerminal",
+    "Material Description": "RF-cable-cramp-1.37mm/WIRE_CLIP",
+    "Value": "RF-cable-cramp-1.37mm",
+    "PCB Decal": "WIRE_CLIP"
+  },
+  {
+    "Type": "Shielding clamp",
+    "Material Description": "SMD/Shielding Clip/6.5x0.8x1.28mm/PAD_JACK_6P5_0P8_1P28",
+    "Value": "6.5x0.8x1.28mm",
+    "PCB Decal": "PAD_JACK_6P5_0P8_1P28"
+  },
+  {
+    "Type": "Heat sink",
+    "Material Description": "heatsink/SH_75X90/Shaped",
+    "Value": "heatsink",
+    "PCB Decal": "SH_75X90"
+  },
+  {
+    "Type": "PCB",
+    "Material Description": "BL201 6-layer/167*119*1.6mm",
+    "Value": "",
+    "PCB Decal": ""
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/4V/X7R/±10%/C0201",
+    "Value": "100pF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/4V/X7R/±10%/C0201",
+    "Value": "150pF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/4V/X7R/±10%/C0201",
+    "Value": "220pF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/4V/X7R/±10%/C0201",
+    "Value": "330pF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/4V/X7R/±10%/C0201",
+    "Value": "470pF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/4V/X7R/±10%/C0201",
+    "Value": "680pF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/4V/X7R/±10%/C0201",
+    "Value": "1nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/4V/X7R/±10%/C0201",
+    "Value": "1.5nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/4V/X7R/±10%/C0201",
+    "Value": "2.2nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/4V/X7R/±10%/C0201",
+    "Value": "3.3nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/4V/X7R/±10%/C0201",
+    "Value": "4.7nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/4V/X7R/±10%/C0201",
+    "Value": "6.8nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/4V/X7R/±10%/C0201",
+    "Value": "10nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/4V/X7R/±10%/C0201",
+    "Value": "15nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/4V/X7R/±10%/C0201",
+    "Value": "22nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/4V/X7R/±10%/C0201",
+    "Value": "33nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/4V/X7R/±10%/C0201",
+    "Value": "47nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/4V/X7R/±10%/C0201",
+    "Value": "68nF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/4V/X7R/±10%/C0201",
+    "Value": "0.1uF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/4V/X7R/±10%/C0201",
+    "Value": "0.15uF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/4V/X7R/±10%/C0201",
+    "Value": "0.22uF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/4V/X7R/±10%/C0201",
+    "Value": "0.33uF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/4V/X7R/±10%/C0201",
+    "Value": "0.47uF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/4V/X7R/±10%/C0201",
+    "Value": "0.68uF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/4V/X7R/±10%/C0201",
+    "Value": "1uF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/4V/X7R/±10%/C0201",
+    "Value": "2.2uF_4V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/6.3V/X7R/±10%/C0201",
+    "Value": "100pF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/6.3V/X7R/±10%/C0201",
+    "Value": "150pF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/6.3V/X7R/±10%/C0201",
+    "Value": "220pF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/6.3V/X7R/±10%/C0201",
+    "Value": "330pF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/6.3V/X7R/±10%/C0201",
+    "Value": "470pF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/6.3V/X7R/±10%/C0201",
+    "Value": "680pF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/6.3V/X7R/±10%/C0201",
+    "Value": "1nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/6.3V/X7R/±10%/C0201",
+    "Value": "1.5nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/6.3V/X7R/±10%/C0201",
+    "Value": "2.2nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/6.3V/X7R/±10%/C0201",
+    "Value": "3.3nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/6.3V/X7R/±10%/C0201",
+    "Value": "4.7nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/6.3V/X7R/±10%/C0201",
+    "Value": "6.8nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/6.3V/X7R/±10%/C0201",
+    "Value": "10nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/6.3V/X7R/±10%/C0201",
+    "Value": "15nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/6.3V/X7R/±10%/C0201",
+    "Value": "22nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/6.3V/X7R/±10%/C0201",
+    "Value": "33nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/6.3V/X7R/±10%/C0201",
+    "Value": "47nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/6.3V/X7R/±10%/C0201",
+    "Value": "68nF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/6.3V/X7R/±10%/C0201",
+    "Value": "0.1uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/6.3V/X7R/±10%/C0201",
+    "Value": "0.15uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/6.3V/X7R/±10%/C0201",
+    "Value": "0.22uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/6.3V/X7R/±10%/C0201",
+    "Value": "0.33uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/6.3V/X7R/±10%/C0201",
+    "Value": "0.47uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/6.3V/X7R/±10%/C0201",
+    "Value": "0.68uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/6.3V/X7R/±10%/C0201",
+    "Value": "1uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/6.3V/X7R/±10%/C0201",
+    "Value": "2.2uF_6.3V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C0201",
+    "Value": "100pF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C0201",
+    "Value": "150pF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C0201",
+    "Value": "220pF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C0201",
+    "Value": "330pF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C0201",
+    "Value": "470pF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C0201",
+    "Value": "680pF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C0201",
+    "Value": "1nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C0201",
+    "Value": "1.5nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C0201",
+    "Value": "2.2nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C0201",
+    "Value": "3.3nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C0201",
+    "Value": "4.7nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C0201",
+    "Value": "6.8nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C0201",
+    "Value": "10nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C0201",
+    "Value": "15nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C0201",
+    "Value": "22nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C0201",
+    "Value": "33nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C0201",
+    "Value": "47nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C0201",
+    "Value": "68nF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C0201",
+    "Value": "0.1uF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C0201",
+    "Value": "0.15uF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C0201",
+    "Value": "0.22uF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C0201",
+    "Value": "0.33uF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C0201",
+    "Value": "0.47uF_16V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C0201",
+    "Value": "100pF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C0201",
+    "Value": "150pF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C0201",
+    "Value": "220pF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C0201",
+    "Value": "330pF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C0201",
+    "Value": "470pF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C0201",
+    "Value": "680pF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C0201",
+    "Value": "1nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C0201",
+    "Value": "1.5nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C0201",
+    "Value": "2.2nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C0201",
+    "Value": "3.3nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C0201",
+    "Value": "4.7nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C0201",
+    "Value": "6.8nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C0201",
+    "Value": "10nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C0201",
+    "Value": "15nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C0201",
+    "Value": "22nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C0201",
+    "Value": "33nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C0201",
+    "Value": "47nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C0201",
+    "Value": "68nF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C0201",
+    "Value": "0.1uF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C0201",
+    "Value": "0.15uF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C0201",
+    "Value": "0.22uF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C0201",
+    "Value": "0.33uF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C0201",
+    "Value": "0.47uF",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1pF/50V/COG/±5%/C0201",
+    "Value": "1pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1.5pF/50V/COG/±5%/C0201",
+    "Value": "1.5pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2pF/50V/COG/±5%/C0201",
+    "Value": "2pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2pF/50V/COG/±5%/C0201",
+    "Value": "2.2pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/3pF/50V/COG/±5%/C0201",
+    "Value": "3pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/3.3pF/50V/COG/±5%/C0201",
+    "Value": "3.3pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4pF/50V/COG/±5%/C0201",
+    "Value": "4pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7pF/50V/COG/±5%/C0201",
+    "Value": "4.7pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/5pF/50V/COG/±5%/C0201",
+    "Value": "5pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/6pF/50V/COG/±5%/C0201",
+    "Value": "6pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/6.8pF/50V/COG/±5%/C0201",
+    "Value": "6.8pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/7pF/50V/COG/±5%/C0201",
+    "Value": "7pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/8pF/50V/COG/±5%/C0201",
+    "Value": "8pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/9pF/50V/COG/±5%/C0201",
+    "Value": "9pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10pF/50V/COG/±5%/C0201",
+    "Value": "10pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/11pF/50V/COG/±5%/C0201",
+    "Value": "11pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/12pF/50V/COG/±5%/C0201",
+    "Value": "12pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/15pF/50V/COG/±5%/C0201",
+    "Value": "15pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/18pF/50V/COG/±5%/C0201",
+    "Value": "18pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22pF/50V/COG/±5%/C0201",
+    "Value": "22pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/27pF/50V/COG/±5%/C0201",
+    "Value": "27pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/33pF/50V/COG/±5%/C0201",
+    "Value": "33pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/39pF/50V/COG/±5%/C0201",
+    "Value": "39pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47pF/50V/COG/±5%/C0201",
+    "Value": "47pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/56pF/50V/COG/±5%/C0201",
+    "Value": "56pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/68pF/50V/COG/±5%/C0201",
+    "Value": "68pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/82pF/50V/COG/±5%/C0201",
+    "Value": "82pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/50V/COG/±5%/C0201",
+    "Value": "100pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/50V/COG/±5%/C0201",
+    "Value": "220pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/330pF/50V/COG/±5%/C0201",
+    "Value": "330pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/50V/COG/±5%/C0201",
+    "Value": "470pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/560pF/50V/COG/±5%/C0201",
+    "Value": "560pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/680pF/50V/COG/±5%/C0201",
+    "Value": "680pF_50V",
+    "PCB Decal": "C0201"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1pF/50V/COG/±5%/C0402",
+    "Value": "1pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1.5pF/50V/COG/±5%/C0402",
+    "Value": "1.5pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2pF/50V/COG/±5%/C0402",
+    "Value": "2pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2pF/50V/COG/±5%/C0402",
+    "Value": "2.2pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/3pF/50V/COG/±5%/C0402",
+    "Value": "3pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/3.3pF/50V/COG/±5%/C0402",
+    "Value": "3.3pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4pF/50V/COG/±5%/C0402",
+    "Value": "4pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7pF/50V/COG/±5%/C0402",
+    "Value": "4.7pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/5pF/50V/COG/±5%/C0402",
+    "Value": "5pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/6pF/50V/COG/±5%/C0402",
+    "Value": "6pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/6.8pF/50V/COG/±5%/C0402",
+    "Value": "6.8pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/7pF/50V/COG/±5%/C0402",
+    "Value": "7pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/8pF/50V/COG/±5%/C0402",
+    "Value": "8pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/9pF/50V/COG/±5%/C0402",
+    "Value": "9pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10pF/50V/COG/±5%/C0402",
+    "Value": "10pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/11pF/50V/COG/±5%/C0402",
+    "Value": "11pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/12pF/50V/COG/±5%/C0402",
+    "Value": "12pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/15pF/50V/COG/±5%/C0402",
+    "Value": "15pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/18pF/50V/COG/±5%/C0402",
+    "Value": "18pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22pF/50V/COG/±5%/C0402",
+    "Value": "22pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/27pF/50V/COG/±5%/C0402",
+    "Value": "27pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/33pF/50V/COG/±5%/C0402",
+    "Value": "33pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/39pF/50V/COG/±5%/C0402",
+    "Value": "39pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47pF/50V/COG/±5%/C0402",
+    "Value": "47pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/56pF/50V/COG/±5%/C0402",
+    "Value": "56pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/68pF/50V/COG/±5%/C0402",
+    "Value": "68pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/82pF/50V/COG/±5%/C0402",
+    "Value": "82pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/50V/COG/±5%/C0402",
+    "Value": "100pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/50V/COG/±5%/C0402",
+    "Value": "220pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/330pF/50V/COG/±5%/C0402",
+    "Value": "330pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/50V/COG/±5%/C0402",
+    "Value": "470pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/560pF/50V/COG/±5%/C0402",
+    "Value": "560pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/680pF/50V/COG/±5%/C0402",
+    "Value": "680pF_50V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/6.3V/X7R/±10%/C0402",
+    "Value": "100pF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/6.3V/X7R/±10%/C0402",
+    "Value": "150pF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/6.3V/X7R/±10%/C0402",
+    "Value": "220pF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/6.3V/X7R/±10%/C0402",
+    "Value": "330pF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/6.3V/X7R/±10%/C0402",
+    "Value": "470pF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/6.3V/X7R/±10%/C0402",
+    "Value": "680pF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/6.3V/X7R/±10%/C0402",
+    "Value": "1nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/6.3V/X7R/±10%/C0402",
+    "Value": "1.5nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/6.3V/X7R/±10%/C0402",
+    "Value": "2.2nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/6.3V/X7R/±10%/C0402",
+    "Value": "3.3nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/6.3V/X7R/±10%/C0402",
+    "Value": "4.7nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/6.3V/X7R/±10%/C0402",
+    "Value": "6.8nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/6.3V/X7R/±10%/C0402",
+    "Value": "10nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/6.3V/X7R/±10%/C0402",
+    "Value": "15nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/6.3V/X7R/±10%/C0402",
+    "Value": "22nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/6.3V/X7R/±10%/C0402",
+    "Value": "33nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/6.3V/X7R/±10%/C0402",
+    "Value": "47nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/6.3V/X7R/±10%/C0402",
+    "Value": "68nF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/6.3V/X7R/±10%/C0402",
+    "Value": "0.1uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/6.3V/X7R/±10%/C0402",
+    "Value": "0.15uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/6.3V/X7R/±10%/C0402",
+    "Value": "0.22uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/6.3V/X7R/±10%/C0402",
+    "Value": "0.33uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/6.3V/X7R/±10%/C0402",
+    "Value": "0.47uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/6.3V/X7R/±10%/C0402",
+    "Value": "0.68uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/6.3V/X7R/±10%/C0402",
+    "Value": "1uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/6.3V/X7R/±10%/C0402",
+    "Value": "2.2uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/6.3V/X7R/±10%/C0402",
+    "Value": "4.7uF_6.3V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C0402",
+    "Value": "100pF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C0402",
+    "Value": "150pF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C0402",
+    "Value": "220pF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C0402",
+    "Value": "330pF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C0402",
+    "Value": "470pF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C0402",
+    "Value": "680pF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C0402",
+    "Value": "1nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C0402",
+    "Value": "1.5nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C0402",
+    "Value": "2.2nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C0402",
+    "Value": "3.3nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C0402",
+    "Value": "4.7nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C0402",
+    "Value": "6.8nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C0402",
+    "Value": "10nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C0402",
+    "Value": "15nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C0402",
+    "Value": "22nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C0402",
+    "Value": "33nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C0402",
+    "Value": "47nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C0402",
+    "Value": "68nF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C0402",
+    "Value": "0.1uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C0402",
+    "Value": "0.15uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C0402",
+    "Value": "0.22uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C0402",
+    "Value": "0.33uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C0402",
+    "Value": "0.47uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/16V/X7R/±10%/C0402",
+    "Value": "0.68uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/X7R/±10%/C0402",
+    "Value": "1uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/16V/X7R/±10%/C0402",
+    "Value": "2.2uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/16V/X7R/±10%/C0402",
+    "Value": "4.7uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/16V/X7R/±10%/C0402",
+    "Value": "6.8uF_16V",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C0402",
+    "Value": "100pF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C0402",
+    "Value": "150pF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C0402",
+    "Value": "220pF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C0402",
+    "Value": "330pF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C0402",
+    "Value": "470pF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C0402",
+    "Value": "680pF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C0402",
+    "Value": "1nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C0402",
+    "Value": "1.5nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C0402",
+    "Value": "2.2nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C0402",
+    "Value": "3.3nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C0402",
+    "Value": "4.7nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C0402",
+    "Value": "6.8nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C0402",
+    "Value": "10nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C0402",
+    "Value": "15nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C0402",
+    "Value": "22nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C0402",
+    "Value": "33nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C0402",
+    "Value": "47nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C0402",
+    "Value": "68nF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C0402",
+    "Value": "0.1uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C0402",
+    "Value": "0.15uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C0402",
+    "Value": "0.22uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C0402",
+    "Value": "0.33uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C0402",
+    "Value": "0.47uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/16V/X7R/±10%/C0402",
+    "Value": "0.68uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/X7R/±10%/C0402",
+    "Value": "1uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/16V/X7R/±10%/C0402",
+    "Value": "2.2uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/16V/X7R/±10%/C0402",
+    "Value": "4.7uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/16V/X7R/±10%/C0402",
+    "Value": "6.8uF",
+    "PCB Decal": "C0402"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/6.3V/X7R/±10%/C0603",
+    "Value": "100pF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/6.3V/X7R/±10%/C0603",
+    "Value": "150pF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/6.3V/X7R/±10%/C0603",
+    "Value": "220pF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/6.3V/X7R/±10%/C0603",
+    "Value": "330pF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/6.3V/X7R/±10%/C0603",
+    "Value": "470pF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/6.3V/X7R/±10%/C0603",
+    "Value": "680pF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/6.3V/X7R/±10%/C0603",
+    "Value": "1nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/6.3V/X7R/±10%/C0603",
+    "Value": "1.5nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/6.3V/X7R/±10%/C0603",
+    "Value": "2.2nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/6.3V/X7R/±10%/C0603",
+    "Value": "3.3nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/6.3V/X7R/±10%/C0603",
+    "Value": "4.7nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/6.3V/X7R/±10%/C0603",
+    "Value": "6.8nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/6.3V/X7R/±10%/C0603",
+    "Value": "10nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/6.3V/X7R/±10%/C0603",
+    "Value": "15nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/6.3V/X7R/±10%/C0603",
+    "Value": "22nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/6.3V/X7R/±10%/C0603",
+    "Value": "33nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/6.3V/X7R/±10%/C0603",
+    "Value": "47nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/6.3V/X7R/±10%/C0603",
+    "Value": "68nF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/6.3V/X7R/±10%/C0603",
+    "Value": "0.1uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/6.3V/X7R/±10%/C0603",
+    "Value": "0.15uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/6.3V/X7R/±10%/C0603",
+    "Value": "0.22uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/6.3V/X7R/±10%/C0603",
+    "Value": "0.33uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/6.3V/X7R/±10%/C0603",
+    "Value": "0.47uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/6.3V/X7R/±10%/C0603",
+    "Value": "0.68uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/6.3V/X7R/±10%/C0603",
+    "Value": "1uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/6.3V/X7R/±10%/C0603",
+    "Value": "2.2uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/6.3V/X7R/±10%/C0603",
+    "Value": "4.7uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/6.3V/X7R/±10%/C0603",
+    "Value": "6.8uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/6.3V/X7R/±10%/C0603",
+    "Value": "10uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/6.3V/X7R/±10%/C0603",
+    "Value": "22uF_6.3V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C0603",
+    "Value": "100pF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C0603",
+    "Value": "150pF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C0603",
+    "Value": "220pF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C0603",
+    "Value": "330pF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C0603",
+    "Value": "470pF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C0603",
+    "Value": "680pF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C0603",
+    "Value": "1nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C0603",
+    "Value": "1.5nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C0603",
+    "Value": "2.2nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C0603",
+    "Value": "3.3nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C0603",
+    "Value": "4.7nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C0603",
+    "Value": "6.8nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C0603",
+    "Value": "10nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C0603",
+    "Value": "15nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C0603",
+    "Value": "22nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C0603",
+    "Value": "33nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C0603",
+    "Value": "47nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C0603",
+    "Value": "68nF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C0603",
+    "Value": "0.1uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C0603",
+    "Value": "0.15uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C0603",
+    "Value": "0.22uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C0603",
+    "Value": "0.33uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C0603",
+    "Value": "0.47uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/16V/X7R/±10%/C0603",
+    "Value": "0.68uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/X7R/±10%/C0603",
+    "Value": "1uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/16V/X7R/±10%/C0603",
+    "Value": "2.2uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/16V/X7R/±10%/C0603",
+    "Value": "4.7uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/16V/X7R/±10%/C0603",
+    "Value": "6.8uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/16V/X7R/±10%/C0603",
+    "Value": "10uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/16V/X7R/±10%/C0603",
+    "Value": "22uF_16V",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C0603",
+    "Value": "100pF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C0603",
+    "Value": "150pF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C0603",
+    "Value": "220pF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C0603",
+    "Value": "330pF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C0603",
+    "Value": "470pF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C0603",
+    "Value": "680pF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C0603",
+    "Value": "1nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C0603",
+    "Value": "1.5nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C0603",
+    "Value": "2.2nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C0603",
+    "Value": "3.3nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C0603",
+    "Value": "4.7nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C0603",
+    "Value": "6.8nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C0603",
+    "Value": "10nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C0603",
+    "Value": "15nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C0603",
+    "Value": "22nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C0603",
+    "Value": "33nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C0603",
+    "Value": "47nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C0603",
+    "Value": "68nF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C0603",
+    "Value": "0.1uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C0603",
+    "Value": "0.15uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C0603",
+    "Value": "0.22uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C0603",
+    "Value": "0.33uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C0603",
+    "Value": "0.47uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/16V/X7R/±10%/C0603",
+    "Value": "0.68uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/X7R/±10%/C0603",
+    "Value": "1uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/16V/X7R/±10%/C0603",
+    "Value": "2.2uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/16V/X7R/±10%/C0603",
+    "Value": "4.7uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/16V/X7R/±10%/C0603",
+    "Value": "6.8uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/16V/X7R/±10%/C0603",
+    "Value": "10uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/16V/X7R/±10%/C0603",
+    "Value": "22uF",
+    "PCB Decal": "C0603"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/6.3V/X7R/±10%/C0805",
+    "Value": "100pF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/6.3V/X7R/±10%/C0805",
+    "Value": "150pF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/6.3V/X7R/±10%/C0805",
+    "Value": "220pF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/6.3V/X7R/±10%/C0805",
+    "Value": "330pF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/6.3V/X7R/±10%/C0805",
+    "Value": "470pF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/6.3V/X7R/±10%/C0805",
+    "Value": "680pF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/6.3V/X7R/±10%/C0805",
+    "Value": "1nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/6.3V/X7R/±10%/C0805",
+    "Value": "1.5nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/6.3V/X7R/±10%/C0805",
+    "Value": "2.2nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/6.3V/X7R/±10%/C0805",
+    "Value": "3.3nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/6.3V/X7R/±10%/C0805",
+    "Value": "4.7nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/6.3V/X7R/±10%/C0805",
+    "Value": "6.8nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/6.3V/X7R/±10%/C0805",
+    "Value": "10nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/6.3V/X7R/±10%/C0805",
+    "Value": "15nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/6.3V/X7R/±10%/C0805",
+    "Value": "22nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/6.3V/X7R/±10%/C0805",
+    "Value": "33nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/6.3V/X7R/±10%/C0805",
+    "Value": "47nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/6.3V/X7R/±10%/C0805",
+    "Value": "68nF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/6.3V/X7R/±10%/C0805",
+    "Value": "0.1uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/6.3V/X7R/±10%/C0805",
+    "Value": "0.15uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/6.3V/X7R/±10%/C0805",
+    "Value": "0.22uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/6.3V/X7R/±10%/C0805",
+    "Value": "0.33uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/6.3V/X7R/±10%/C0805",
+    "Value": "0.47uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/6.3V/X7R/±10%/C0805",
+    "Value": "0.68uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/6.3V/X7R/±10%/C0805",
+    "Value": "1uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/6.3V/X7R/±10%/C0805",
+    "Value": "2.2uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/6.3V/X7R/±10%/C0805",
+    "Value": "4.7uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/6.3V/X7R/±10%/C0805",
+    "Value": "6.8uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/6.3V/X7R/±10%/C0805",
+    "Value": "10uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/6.3V/X7R/±10%/C0805",
+    "Value": "22uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/6.3V/X7R/±10%/C0805",
+    "Value": "33uF_6.3V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C0805",
+    "Value": "100pF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C0805",
+    "Value": "150pF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C0805",
+    "Value": "220pF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C0805",
+    "Value": "330pF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C0805",
+    "Value": "470pF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C0805",
+    "Value": "680pF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C0805",
+    "Value": "1nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C0805",
+    "Value": "1.5nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C0805",
+    "Value": "2.2nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C0805",
+    "Value": "3.3nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C0805",
+    "Value": "4.7nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C0805",
+    "Value": "6.8nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C0805",
+    "Value": "10nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C0805",
+    "Value": "15nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C0805",
+    "Value": "22nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C0805",
+    "Value": "33nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C0805",
+    "Value": "47nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C0805",
+    "Value": "68nF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C0805",
+    "Value": "0.1uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C0805",
+    "Value": "0.15uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C0805",
+    "Value": "0.22uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C0805",
+    "Value": "0.33uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C0805",
+    "Value": "0.47uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/16V/X7R/±10%/C0805",
+    "Value": "0.68uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/X7R/±10%/C0805",
+    "Value": "1uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/16V/X7R/±10%/C0805",
+    "Value": "2.2uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/16V/X7R/±10%/C0805",
+    "Value": "4.7uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/16V/X7R/±10%/C0805",
+    "Value": "6.8uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/16V/X7R/±10%/C0805",
+    "Value": "10uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/16V/X7R/±10%/C0805",
+    "Value": "22uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/16V/X7R/±10%/C0805",
+    "Value": "33uF_16V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C0805",
+    "Value": "100pF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C0805",
+    "Value": "150pF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C0805",
+    "Value": "220pF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C0805",
+    "Value": "330pF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C0805",
+    "Value": "470pF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C0805",
+    "Value": "680pF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C0805",
+    "Value": "1nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C0805",
+    "Value": "1.5nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C0805",
+    "Value": "2.2nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C0805",
+    "Value": "3.3nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C0805",
+    "Value": "4.7nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C0805",
+    "Value": "6.8nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C0805",
+    "Value": "10nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C0805",
+    "Value": "15nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C0805",
+    "Value": "22nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C0805",
+    "Value": "33nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C0805",
+    "Value": "47nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C0805",
+    "Value": "68nF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C0805",
+    "Value": "0.1uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C0805",
+    "Value": "0.15uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C0805",
+    "Value": "0.22uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C0805",
+    "Value": "0.33uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C0805",
+    "Value": "0.47uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/16V/X7R/±10%/C0805",
+    "Value": "0.68uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/X7R/±10%/C0805",
+    "Value": "1uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/16V/X7R/±10%/C0805",
+    "Value": "2.2uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/16V/X7R/±10%/C0805",
+    "Value": "4.7uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/16V/X7R/±10%/C0805",
+    "Value": "6.8uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/16V/X7R/±10%/C0805",
+    "Value": "10uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/16V/X7R/±10%/C0805",
+    "Value": "22uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/16V/X7R/±10%/C0805",
+    "Value": "33uF",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/25V/X7R/±10%/C0805",
+    "Value": "100pF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/25V/X7R/±10%/C0805",
+    "Value": "150pF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/25V/X7R/±10%/C0805",
+    "Value": "220pF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/25V/X7R/±10%/C0805",
+    "Value": "330pF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/25V/X7R/±10%/C0805",
+    "Value": "470pF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/25V/X7R/±10%/C0805",
+    "Value": "680pF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/25V/X7R/±10%/C0805",
+    "Value": "1nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/25V/X7R/±10%/C0805",
+    "Value": "1.5nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/25V/X7R/±10%/C0805",
+    "Value": "2.2nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/25V/X7R/±10%/C0805",
+    "Value": "3.3nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/25V/X7R/±10%/C0805",
+    "Value": "4.7nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/25V/X7R/±10%/C0805",
+    "Value": "6.8nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/25V/X7R/±10%/C0805",
+    "Value": "10nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/25V/X7R/±10%/C0805",
+    "Value": "15nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/25V/X7R/±10%/C0805",
+    "Value": "22nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/25V/X7R/±10%/C0805",
+    "Value": "33nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/25V/X7R/±10%/C0805",
+    "Value": "47nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/25V/X7R/±10%/C0805",
+    "Value": "68nF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/25V/X7R/±10%/C0805",
+    "Value": "0.1uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/25V/X7R/±10%/C0805",
+    "Value": "0.15uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/25V/X7R/±10%/C0805",
+    "Value": "0.22uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/25V/X7R/±10%/C0805",
+    "Value": "0.33uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/25V/X7R/±10%/C0805",
+    "Value": "0.47uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/25V/X7R/±10%/C0805",
+    "Value": "0.68uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/25V/X7R/±10%/C0805",
+    "Value": "1uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/25V/X7R/±10%/C0805",
+    "Value": "2.2uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/25V/X7R/±10%/C0805",
+    "Value": "4.7uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/25V/X7R/±10%/C0805",
+    "Value": "6.8uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/25V/X7R/±10%/C0805",
+    "Value": "10uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/25V/X7R/±10%/C0805",
+    "Value": "22uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/25V/X7R/±10%/C0805",
+    "Value": "33uF_25V",
+    "PCB Decal": "C0805"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/6.3V/X7R/±10%/C1206",
+    "Value": "100pF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/6.3V/X7R/±10%/C1206",
+    "Value": "150pF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/6.3V/X7R/±10%/C1206",
+    "Value": "220pF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/6.3V/X7R/±10%/C1206",
+    "Value": "330pF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/6.3V/X7R/±10%/C1206",
+    "Value": "470pF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/6.3V/X7R/±10%/C1206",
+    "Value": "680pF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/6.3V/X7R/±10%/C1206",
+    "Value": "1nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/6.3V/X7R/±10%/C1206",
+    "Value": "1.5nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/6.3V/X7R/±10%/C1206",
+    "Value": "2.2nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/6.3V/X7R/±10%/C1206",
+    "Value": "3.3nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/6.3V/X7R/±10%/C1206",
+    "Value": "4.7nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/6.3V/X7R/±10%/C1206",
+    "Value": "6.8nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/6.3V/X7R/±10%/C1206",
+    "Value": "10nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/6.3V/X7R/±10%/C1206",
+    "Value": "15nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/6.3V/X7R/±10%/C1206",
+    "Value": "22nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/6.3V/X7R/±10%/C1206",
+    "Value": "33nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/6.3V/X7R/±10%/C1206",
+    "Value": "47nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/6.3V/X7R/±10%/C1206",
+    "Value": "68nF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/6.3V/X7R/±10%/C1206",
+    "Value": "0.1uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/6.3V/X7R/±10%/C1206",
+    "Value": "0.15uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/6.3V/X7R/±10%/C1206",
+    "Value": "0.22uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/6.3V/X7R/±10%/C1206",
+    "Value": "0.33uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/6.3V/X7R/±10%/C1206",
+    "Value": "0.47uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/6.3V/X7R/±10%/C1206",
+    "Value": "0.68uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/6.3V/X7R/±10%/C1206",
+    "Value": "1uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/6.3V/X7R/±10%/C1206",
+    "Value": "2.2uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/6.3V/X7R/±10%/C1206",
+    "Value": "4.7uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/6.3V/X7R/±10%/C1206",
+    "Value": "6.8uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/6.3V/X7R/±10%/C1206",
+    "Value": "10uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/6.3V/X7R/±10%/C1206",
+    "Value": "22uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/6.3V/X7R/±10%/C1206",
+    "Value": "33uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/47uF/6.3V/X7R/±10%/C1206",
+    "Value": "47uF_6.3V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C1206",
+    "Value": "100pF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C1206",
+    "Value": "150pF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C1206",
+    "Value": "220pF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C1206",
+    "Value": "330pF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C1206",
+    "Value": "470pF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C1206",
+    "Value": "680pF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C1206",
+    "Value": "1nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C1206",
+    "Value": "1.5nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C1206",
+    "Value": "2.2nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C1206",
+    "Value": "3.3nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C1206",
+    "Value": "4.7nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C1206",
+    "Value": "6.8nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C1206",
+    "Value": "10nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C1206",
+    "Value": "15nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C1206",
+    "Value": "22nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C1206",
+    "Value": "33nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C1206",
+    "Value": "47nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C1206",
+    "Value": "68nF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C1206",
+    "Value": "0.1uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C1206",
+    "Value": "0.15uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C1206",
+    "Value": "0.22uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C1206",
+    "Value": "0.33uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C1206",
+    "Value": "0.47uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/16V/X7R/±10%/C1206",
+    "Value": "0.68uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/X7R/±10%/C1206",
+    "Value": "1uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/16V/X7R/±10%/C1206",
+    "Value": "2.2uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/16V/X7R/±10%/C1206",
+    "Value": "4.7uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/16V/X7R/±10%/C1206",
+    "Value": "6.8uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/16V/X7R/±10%/C1206",
+    "Value": "10uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/16V/X7R/±10%/C1206",
+    "Value": "22uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/16V/X7R/±10%/C1206",
+    "Value": "33uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/47uF/16V/X7R/±10%/C1206",
+    "Value": "47uF_16V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/16V/X7R/±10%/C1206",
+    "Value": "100pF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/16V/X7R/±10%/C1206",
+    "Value": "150pF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/16V/X7R/±10%/C1206",
+    "Value": "220pF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/16V/X7R/±10%/C1206",
+    "Value": "330pF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/16V/X7R/±10%/C1206",
+    "Value": "470pF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/16V/X7R/±10%/C1206",
+    "Value": "680pF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/16V/X7R/±10%/C1206",
+    "Value": "1nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/16V/X7R/±10%/C1206",
+    "Value": "1.5nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/16V/X7R/±10%/C1206",
+    "Value": "2.2nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/16V/X7R/±10%/C1206",
+    "Value": "3.3nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/16V/X7R/±10%/C1206",
+    "Value": "4.7nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/16V/X7R/±10%/C1206",
+    "Value": "6.8nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/16V/X7R/±10%/C1206",
+    "Value": "10nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/16V/X7R/±10%/C1206",
+    "Value": "15nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/16V/X7R/±10%/C1206",
+    "Value": "22nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/16V/X7R/±10%/C1206",
+    "Value": "33nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/16V/X7R/±10%/C1206",
+    "Value": "47nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/16V/X7R/±10%/C1206",
+    "Value": "68nF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/16V/X7R/±10%/C1206",
+    "Value": "0.1uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/16V/X7R/±10%/C1206",
+    "Value": "0.15uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/16V/X7R/±10%/C1206",
+    "Value": "0.22uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/16V/X7R/±10%/C1206",
+    "Value": "0.33uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/16V/X7R/±10%/C1206",
+    "Value": "0.47uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/16V/X7R/±10%/C1206",
+    "Value": "0.68uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/16V/X7R/±10%/C1206",
+    "Value": "1uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/16V/X7R/±10%/C1206",
+    "Value": "2.2uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/16V/X7R/±10%/C1206",
+    "Value": "4.7uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/16V/X7R/±10%/C1206",
+    "Value": "6.8uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/16V/X7R/±10%/C1206",
+    "Value": "10uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/16V/X7R/±10%/C1206",
+    "Value": "22uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/16V/X7R/±10%/C1206",
+    "Value": "33uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/47uF/16V/X7R/±10%/C1206",
+    "Value": "47uF",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/100pF/25V/X7R/±10%/C1206",
+    "Value": "100pF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/150pF/25V/X7R/±10%/C1206",
+    "Value": "150pF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/220pF/25V/X7R/±10%/C1206",
+    "Value": "220pF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/330pF/25V/X7R/±10%/C1206",
+    "Value": "330pF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/470pF/25V/X7R/±10%/C1206",
+    "Value": "470pF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/680pF/25V/X7R/±10%/C1206",
+    "Value": "680pF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1nF/25V/X7R/±10%/C1206",
+    "Value": "1nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1.5nF/25V/X7R/±10%/C1206",
+    "Value": "1.5nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/2.2nF/25V/X7R/±10%/C1206",
+    "Value": "2.2nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/3.3nF/25V/X7R/±10%/C1206",
+    "Value": "3.3nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/4.7nF/25V/X7R/±10%/C1206",
+    "Value": "4.7nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8nF/25V/X7R/±10%/C1206",
+    "Value": "6.8nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/10nF/25V/X7R/±10%/C1206",
+    "Value": "10nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/15nF/25V/X7R/±10%/C1206",
+    "Value": "15nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/22nF/25V/X7R/±10%/C1206",
+    "Value": "22nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33nF/25V/X7R/±10%/C1206",
+    "Value": "33nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/47nF/25V/X7R/±10%/C1206",
+    "Value": "47nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/68nF/25V/X7R/±10%/C1206",
+    "Value": "68nF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.1uF/25V/X7R/±10%/C1206",
+    "Value": "0.1uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.15uF/25V/X7R/±10%/C1206",
+    "Value": "0.15uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.22uF/25V/X7R/±10%/C1206",
+    "Value": "0.22uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.33uF/25V/X7R/±10%/C1206",
+    "Value": "0.33uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/0.47uF/25V/X7R/±10%/C1206",
+    "Value": "0.47uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/0.68uF/25V/X7R/±10%/C1206",
+    "Value": "0.68uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC/1uF/25V/X7R/±10%/C1206",
+    "Value": "1uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/2.2uF/25V/X7R/±10%/C1206",
+    "Value": "2.2uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/4.7uF/25V/X7R/±10%/C1206",
+    "Value": "4.7uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/6.8uF/25V/X7R/±10%/C1206",
+    "Value": "6.8uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/10uF/25V/X7R/±10%/C1206",
+    "Value": "10uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/22uF/25V/X7R/±10%/C1206",
+    "Value": "22uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/25V/X7R/±10%/C1206",
+    "Value": "33uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/47uF/25V/X7R/±10%/C1206",
+    "Value": "47uF_25V",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1nF/2KV\r/X7R/±10%/C1206",
+    "Value": "1nF_2KV\r",
+    "PCB Decal": "C1206"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/1nF/2KV\r/X7R/±10%/C1206_EARTH",
+    "Value": "1nF_2KV\r",
+    "PCB Decal": "C1206_EARTH"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/6.3V/X7R/±10%/C1210",
+    "Value": "33uF_6.3V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/47uF/6.3V/X7R/±10%/C1210",
+    "Value": "47uF_6.3V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/100uF/6.3V/X7R/±10%/C1210",
+    "Value": "100uF_6.3V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/16V/X7R/±10%/C1210",
+    "Value": "33uF_16V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/47uF/16V/X7R/±10%/C1210",
+    "Value": "47uF_16V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/100uF/16V/X7R/±10%/C1210",
+    "Value": "100uF_16V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/33uF/25V/X7R/±10%/C1210",
+    "Value": "33uF_25V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/47uF/25V/X7R/±10%/C1210",
+    "Value": "47uF_25V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "SMT/MLCC\r/100uF/25V/X7R/±10%/C1210",
+    "Value": "100uF_25V",
+    "PCB Decal": "C1210"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "SMTcapacitor",
+    "Material Description": "//////",
+    "Value": "_",
+    "PCB Decal": "0"
+  },
+  {
+    "Type": "AL capacitor\r",
+    "Material Description": "SMT/铝电解电容/100pF/4V/X7R/±10%/C0201",
+    "Value": "100pF_4V",
+    "PCB Decal": "C0201"
+  }
+]
