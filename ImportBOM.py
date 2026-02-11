@@ -94,7 +94,7 @@ class BOMPage(QtWidgets.QWidget):
                 ~body[part_col]
                     .fillna("")
                     .str.upper()
-                    .str.startswith("NC/")
+                    .str.startswith("NC")
             ]
             # ==============================================
             def lookup(r, idx):
@@ -105,7 +105,8 @@ class BOMPage(QtWidgets.QWidget):
             body[("Bill of Material","Type")] = body.apply(lambda r: lookup(r,1),axis=1)
             out=os.path.splitext(path)[0] + "_output.xlsx"
             body.to_excel(out, engine='openpyxl')
-            wb, ws = load_workbook(out), load_workbook(out).active
+            wb = load_workbook(out)
+            ws = wb.active
             ws.delete_rows(3,2); ws.delete_cols(1,1)
             data=[list(r) for r in ws.iter_rows(values_only=True)]
             for r in data:
