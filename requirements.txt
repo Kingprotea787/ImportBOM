@@ -2,3 +2,4 @@ pyqt5
 pandas
 openpyxl
 pyinstaller
+pillow
